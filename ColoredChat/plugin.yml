@@ -1,0 +1,5 @@
+main: llt.spigot.plugin.Main
+name: ChatColor
+version: 1.0
+author: Liam Tormey
+description: ChatColor plugn.
